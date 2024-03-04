@@ -1,1 +1,1 @@
-Primera Pre entrega, hice un par de prototipos, no se si da tiempo para que los revisen, no se porque pero lo de iniciar sesion con contrasena ya no me sirve si fallas y en el prototipo 2 el mensaje final no se muestra.
+Segunda Pre-entrega, proyecto en construccion de gestion de deudas.
